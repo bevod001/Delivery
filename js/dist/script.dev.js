@@ -13,8 +13,8 @@ $(document).ready(function () {
     autoplay: false,
     autoplaySpeed: 2000,
     arrows: true,
-    prevArrow: '<button type="button" class="slick-prev"><img src="../icons/slider/prev.png"></button>',
-    nextArrow: '<button type="button" class="slick-next"><img src="../icons/slider/next.png"></button>',
+    prevArrow: '<button type="button" class="slick-prev"><img src="icons/slider/prev.png"></button>',
+    nextArrow: '<button type="button" class="slick-next"><img src="icons/slider/next.png"></button>',
     responsive: [{
       breakpoint: 1201,
       settings: {
